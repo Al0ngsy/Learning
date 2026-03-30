@@ -2,19 +2,19 @@
 
 ## Service Models
 
-| Model | You Manage | Provider Manages | Best For |
-|---|---|---|---|
-| IaaS | OS, runtime, app, data | Network, storage, servers, virtualization | Maximum control with cloud elasticity |
-| PaaS | App and data | Runtime, OS, infrastructure | Faster development without infra management |
-| SaaS | Configuration and usage | Full application stack | Fast adoption of business applications |
+| Model | You Manage              | Provider Manages                          | Best For                                    |
+| ----- | ----------------------- | ----------------------------------------- | ------------------------------------------- |
+| IaaS  | OS, runtime, app, data  | Network, storage, servers, virtualization | Maximum control with cloud elasticity       |
+| PaaS  | App and data            | Runtime, OS, infrastructure               | Faster development without infra management |
+| SaaS  | Configuration and usage | Full application stack                    | Fast adoption of business applications      |
 
 ## Deployment Models
 
-| Model | Ownership | Access | Typical Use |
-|---|---|---|---|
-| Public | Provider | Internet-based | Scalable general workloads |
-| Private | Single organization | Restricted/internal | Strict compliance and control |
-| Hybrid | Org + provider mix | Integrated environments | Sensitive workloads + cloud scale |
+| Model     | Ownership                       | Access                      | Typical Use                        |
+| --------- | ------------------------------- | --------------------------- | ---------------------------------- |
+| Public    | Provider                        | Internet-based              | Scalable general workloads         |
+| Private   | Single organization             | Restricted/internal         | Strict compliance and control      |
+| Hybrid    | Org + provider mix              | Integrated environments     | Sensitive workloads + cloud scale  |
 | Community | Shared by similar organizations | Controlled community access | Shared regulatory/compliance needs |
 
 ## Security Essentials
