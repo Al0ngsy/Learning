@@ -1,4 +1,4 @@
- # 1. Codebase
+# 1. Codebase
 
 Use **Git** to track your codebase, and have a **single codebase per app/service**.
 

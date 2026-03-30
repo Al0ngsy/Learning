@@ -1,4 +1,4 @@
- # 5. Build, release, run
+# 5. Build, release, run
 
 Clear separation between the build, release, and run stages of the app's lifecycle is essential.
 

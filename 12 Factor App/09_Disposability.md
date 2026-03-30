@@ -1,4 +1,4 @@
- # 9. Disposability
+# 9. Disposability
 
 The app should be designed to **start up and shut down quickly**, allowing for rapid scaling and deployment.
 

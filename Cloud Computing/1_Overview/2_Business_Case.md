@@ -1,4 +1,4 @@
- # Business Case for Cloud Adoption
+# Business Case for Cloud Adoption
 
 The adoption of cloud technologies enables enterprises, large and small, to be more agile, innovative, and competitive, and to create differentiated customer experiences. Organizations are increasingly asking not whether they should move to the cloud, but what strategy they should adopt to do so.
 

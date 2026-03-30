@@ -1,4 +1,4 @@
- # 4. Backing Services
+# 4. Backing Services
 
 **Backing services** are any services that the app consumes over the network as part of its normal operation.
 

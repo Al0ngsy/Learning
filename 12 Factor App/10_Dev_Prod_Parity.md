@@ -1,4 +1,4 @@
- # 10. Dev/Prod Parity
+# 10. Dev/Prod Parity
 
 Development, staging, and production environments should be as similar as possible to reduce bugs and issues from environment differences.
 

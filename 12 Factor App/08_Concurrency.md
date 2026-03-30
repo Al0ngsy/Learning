@@ -1,4 +1,4 @@
- # 8. Concurrency
+# 8. Concurrency
 
 Each instance of the app can serve multiple requests. On high influx of requests, scale up by:
 

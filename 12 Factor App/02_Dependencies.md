@@ -1,4 +1,4 @@
- # 2. Dependencies
+# 2. Dependencies
 
 **Don't rely on implicit existence of system-wide packages.** Declare all dependencies explicitly in a manifest file:
 

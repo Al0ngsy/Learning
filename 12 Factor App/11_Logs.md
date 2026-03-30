@@ -1,4 +1,4 @@
- # 11. Logs
+# 11. Logs
 
 The app should **treat logs as event streams** and write to permanent storage, not local storage.
 

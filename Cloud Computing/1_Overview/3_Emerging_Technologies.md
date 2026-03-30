@@ -1,4 +1,4 @@
- # Emerging Cloud Technologies
+# Emerging Cloud Technologies
 
 Emerging technologies powered by the cloud are disrupting existing business models and creating unprecedented opportunities for businesses to grow, innovate, and create value for their customers.
 

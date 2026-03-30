@@ -1,4 +1,4 @@
- # 3. Config
+# 3. Config
 
 **Configuration** refers to the settings and parameters that determine how an app behaves in different environments.
 

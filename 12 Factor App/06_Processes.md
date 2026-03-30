@@ -1,4 +1,6 @@
- # 6. Processes
+# 6. Processes
+
+## Key Concepts
 
 ### Stateless Processes
 

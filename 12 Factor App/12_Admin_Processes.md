@@ -1,4 +1,4 @@
- # 12. Admin Processes
+# 12. Admin Processes
 
 **Admin processes** are one-off tasks run in the same environment as the app, but not part of normal operation.
 
